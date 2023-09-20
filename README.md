@@ -15,3 +15,7 @@ https://codesandbox.io/
 https://codesandbox.io/s/proiectarea-paginilor-web-2023-is-mi-zzf8zn
 
 https://zzf8zn.csb.app/
+
+# Tutorials
+HTML https://www.w3schools.com/html/
+
