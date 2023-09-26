@@ -24,3 +24,6 @@ HTML https://www.w3schools.com/html/
 
 # HTML Code validator
 https://validator.w3.org/
+
+# Utils
+- Text generator https://www.lipsum.com/feed/html
