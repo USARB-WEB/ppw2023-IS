@@ -31,4 +31,3 @@ https://validator.w3.org/
 - Text generator https://www.lipsum.com/feed/html
 - Emmet shortcut https://docs.emmet.io/cheat-sheet/
 
-  > End of file
