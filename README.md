@@ -20,10 +20,13 @@ https://codesandbox.io/s/proiectarea-paginilor-web-2023-is-mi-zzf8zn
 https://zzf8zn.csb.app/
 
 # Tutorials
-HTML https://www.w3schools.com/html/
+- HTML https://www.w3schools.com/html/
+
+- CSS https://www.w3schools.com/css/
 
 # HTML Code validator
 https://validator.w3.org/
 
 # Utils
 - Text generator https://www.lipsum.com/feed/html
+- Emmet shortcut https://docs.emmet.io/cheat-sheet/
