@@ -12,6 +12,10 @@ https://git-scm.com/
 - Notepad++ https://notepad-plus-plus.org/
 ## Online editors
 - Codesandbox
+
+## Design, UI, UX, ToR utilities
+- Figma https://www.figma.com/
+- UML Diagrams https://app.diagrams.net/
   
 https://codesandbox.io/
 
