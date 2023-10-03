@@ -1,0 +1,93 @@
+body{
+    font-family: 'Roboto', sans-serif;    
+}
+
+header{
+    margin: 0 5em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+button{
+    padding: 0.5em;
+}
+
+header button{
+    background-color: #111B47;
+    color: white;
+    border-radius: 2px;
+    border: none;
+    width: 160px;
+}
+
+header nav{ 
+    
+}
+
+header nav a{
+    font-size: 14px;
+    color: #505F98;
+    margin-right: 3em;
+}
+
+h1{
+    color: #37447E;
+    font-size: 24px;
+}
+
+h2{
+    color: #091133;
+    font-size: 50px;
+}
+
+section{
+    padding: 10em;
+}
+
+section#main{
+    display: grid;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    background-image: url(img/designer_1.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+section#light{
+    outline: 1px solid red;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+section#light ul{
+    list-style: none;
+    padding: 0;
+    display: flex;
+}
+
+section#main .left-column, section#light .left-column{
+    width: 50%;
+}
+
+.left-column p{
+    color: #505F98;
+    font-size: 18;
+}
+
+.left-column button{
+    background-color: #111B47;
+    color: white;
+    border-radius: 2px;
+    border: none;
+    width: 160px;
+}
+
+.left-column button.outlined{
+    background-color: transparent;
+    border: 1px solid #111B47;
+    color:#111B47;
+}
