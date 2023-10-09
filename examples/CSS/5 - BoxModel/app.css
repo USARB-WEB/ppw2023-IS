@@ -1,0 +1,25 @@
+.element{
+    border: 5px solid black;
+    width: 200px;
+    height: 100px;
+    padding: 15px;
+    margin: 20px;
+    background-color: aquamarine;
+}
+
+
+.parent{
+    background-color: green;
+    display: flex;
+    width: 600px;
+    border: 5px solid red;
+    overflow: auto;
+}
+
+.parent .child{
+    width: 60px;
+    height: 25px;
+    border: 2px solid blue;
+    margin:10px;;
+    padding: 5px;
+}
