@@ -1,0 +1,51 @@
+.parent{
+    display: grid;
+    grid-template-columns: 100px 200px 100px;
+}
+
+.child{
+    border: 1px solid red;
+}
+
+.parent-fractions{
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+}
+
+.parent-repeat{
+    display: grid;
+    /*grid-template-columns: 100px 100px 100px 100px 100px;*/
+    /*grid-template-columns: repeat(5, 100px);*/
+    /*grid-template-columns: 100px 200px 200px 200px 100px;*/
+    grid-template-columns: 100px repeat(3, 200px) 100px;
+}
+
+.parent-auto{
+    display: grid;
+    grid-template-columns: 100px auto 100px;
+}
+
+.parent-rows{
+    display: grid;
+    grid-template-rows: 100px 200px 100px;
+}
+
+
+.parent-rows-columns{
+    display: grid;
+    grid-template-rows: 100px 200px 100px;
+    grid-template-columns: 100px 200px 100px;
+}
+
+
+
+.parent-gap{
+    display: grid;
+    grid-template-rows: 100px 200px 100px;
+    grid-template-columns: 100px 200px 100px;
+    /*gap: 10px;*/
+    /*column-gap: 5px;*/
+    row-gap: 5px;
+}
+
+
