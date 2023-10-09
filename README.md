@@ -28,6 +28,8 @@ https://zzf8zn.csb.app/
 
 - CSS https://www.w3schools.com/css/
 
+- CSS display flex trainer https://flexboxfroggy.com/
+
 # HTML Code validator
 https://validator.w3.org/
 
