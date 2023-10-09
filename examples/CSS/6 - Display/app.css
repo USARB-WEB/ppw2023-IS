@@ -1,0 +1,29 @@
+.block{
+    border: 1px solid red;
+    width: 200px;
+    height: 40px;
+}
+
+.inline{
+    display: inline;
+    border: 1px solid red;
+    width: 200px;
+    height: 40px;
+}
+
+.inline-block{
+    display: inline-block;
+    border: 1px solid red;
+    width: 200px;
+    height: 40px;
+}
+
+.none{
+    display: none;
+    border: 1px solid red;
+    width: 200px;
+    height: 40px;
+}
+
+
+
