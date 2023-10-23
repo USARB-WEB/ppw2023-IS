@@ -25,6 +25,11 @@ header{
     margin: 0 auto;
 }
 
+.resolution-warning{
+    display: none;
+    font-size: 46px;
+}
+
 @media screen and (max-width: 1400px) {
     .wrapper{
         width: 1200px;
@@ -49,6 +54,16 @@ header{
 
     header{
         display: none;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .wrapper{
+        display: none;
+    }
+
+    .resolution-warning{
+        display: block;
     }
 }
 
