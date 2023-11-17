@@ -1,0 +1,18 @@
+.alert{
+    font-size: 23px;
+}
+
+.alert-success{
+    background-color: green;
+    color: white;
+}
+
+.btn{
+    font-size: 23px;
+    padding: 1em;
+}
+
+.btn-danger:hover{
+    background-color: red;
+    color: white;
+}
